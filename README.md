@@ -31,3 +31,5 @@ python tracker.py --cli
 1. It looks up the Riot Client lockfile in your `%LOCALAPPDATA%` directory to get the local port and generated password.
 2. It connects to the local Riot WebSockets/HTTPS server (ignoring the self-signed certificate warning).
 3. It fetches your current account details and parses your recent competitive matches to calculate the net RR change since the script was started.
+
+<!-- refreshed: 2026-09-13 -->
